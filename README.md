@@ -39,8 +39,6 @@ SensorLab est un projet qui permet de gérer et d’exploiter des données de ca
 - Accédez à l’interface via `http://localhost:8080/`
 - Ajoutez et visualisez les lectures de capteurs.
 
-
-Ce projet est sous licence MIT.
 ##Collab
 @nisbe1812
 !https://github.com/nisbe1218
