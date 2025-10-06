@@ -20,7 +20,6 @@ SensorLab est un projet qui permet de gérer et d’exploiter des données de ca
 
 ## Outils et technologies utilisés
 
-- **Java 11**
 - **Jakarta EE** (CDI pour l’injection de dépendances, JPA éventuellement)
 - **JSP/JSTL** pour l’interface web
 - **Docker** : Conteneurisation et exécution sur WildFly
